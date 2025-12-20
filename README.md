@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou o João Victor! 👋
+Cientista de Dados | Engenheiro de Machine Learning | Desenvolvedor Python
 
-<!--
-**Joaovictor1998/Joaovictor1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por transformar dados brutos em decisões estratégicas. Tenho uma mente analítica voltada para o "porquê" por trás dos comportamentos de consumo e mercado.
 
-Here are some ideas to get you started:
+🛠 Tecnologias e Ferramentas:
+Linguagens: Python (Pandas, Numpy, Scikit-learn), SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Django, Flask, APIs REST.
+
+Infraestrutura: Docker, PostgreSQL.
+
+Áreas de Interesse: Inteligência Artificial, Sistemas de Recomendação e Análise de Mercado.
+
+“Se você torturar os dados por tempo suficiente, eles confessarão qualquer coisa.”
