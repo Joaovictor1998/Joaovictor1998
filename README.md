@@ -1,25 +1,32 @@
-# Olá, eu sou o João Victor! 👋
+# Hi, I'm João Victor! 👋
 
-### 👨‍💻 Cientista de Dados & Desenvolvedor Python (Back-end)
+### 👨‍💻 Data Scientist & Python Backend Developer
 
-Apaixonado por resolver problemas complexos através da lógica e da matemática. Minha jornada na tecnologia é movida pela curiosidade de entender o "porquê" por trás dos comportamentos de mercado e das decisões dos consumidores.
-
----
-
-### 🚀 Sobre Mim
-- 🎓 Estudante de Sistemas de Informação, focado em **Ciência de Dados e IA**.
-- 🧠 Entusiasta de áreas de exatas (**Matemática, Física e Química**), aplicando esse raciocínio analítico na construção de algoritmos.
-- 🛠️ Experiência em desenvolvimento Back-end com **Python, Django e APIs**.
-- 🐳 Praticante de **Docker** para garantir que os modelos de dados rodem em qualquer lugar.
+Passionate about solving complex problems through logic and mathematics. My journey in technology is driven by the curiosity to understand the "why" behind market behaviors and consumer decisions.
 
 ---
 
-### 📊 Áreas de Especialização
-- **Análise de Dados:** Extração de insights de grandes volumes de dados usando Python (Pandas/Numpy).
-- **Machine Learning:** Desenvolvimento de modelos preditivos e sistemas de recomendação.
-- **Engenharia de Dados:** Manipulação de bancos de dados SQL (PostgreSQL) e integração com APIs.
-- **DevOps para Dados:** Containerização de aplicações e modelos utilizando Docker.
+### 🚀 About Me
+- 🎓 **Information Systems** student, focusing on **Data Science and AI**.
+- 🧠 STEM Enthusiast (**Mathematics, Physics, and Chemistry**), applying analytical reasoning to algorithm construction.
+- 🛠️ Experienced in Backend development with **Python, Django, and REST APIs**.
+- 🐳 Using **Docker** to ensure data models run seamlessly in any environment.
 
+---
+
+### 📊 Areas of Expertise
+- **Data Analysis:** Extracting insights from large datasets using Python (Pandas/Numpy).
+- **Machine Learning:** Developing predictive models and recommendation systems.
+- **Data Engineering:** SQL database management (PostgreSQL) and API integration.
+- **Data DevOps:** Containerization of applications and models using Docker.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, JavaScript.
+- **Frameworks:** Django, Pandas, Numpy, Scikit-learn.
+- **Tools:** Docker, PostgreSQL, Git & GitHub.
+- **Testing:** QA Manual & Automation (uTest Top Performer).
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -34,11 +41,12 @@ Apaixonado por resolver problemas complexos através da lógica e da matemática
 
 ---
 
-### 📈 Objetivos no GitHub
-Atualmente, estou construindo meu portfólio na **"Mina de Ouro"** da Ciência de Dados, transformando curiosidade analítica em soluções práticas de negócio.
 
-📫 **Como me encontrar:**
+### 📈 GitHub Goals
+I am currently building my portfolio within the **"Gold Mine"** of Data Science, transforming analytical curiosity into practical, high-value business solutions.
+
+📫 **How to find me:
  | [contatojoaovictorb@gmail.com]
 
 ---
-*"Se você torturar os dados por tempo suficiente, eles confessarão qualquer coisa." - Ronald Coase*
+*"If you torture the data long enough, it will confess to anything." - Ronald Coase*
