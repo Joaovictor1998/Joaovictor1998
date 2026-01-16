@@ -41,6 +41,12 @@ Passionate about solving complex problems through logic and mathematics. My jour
 
 ---
 
+---
+
+### 🔔 Currently Learning & Improving
+- 🧪 **Software Quality Assurance:** Actively contributing to international projects on **uTest** (currently ranked as a top performer in functional testing).
+- 🤖 **Automation:** Developing scripts in **Python** to streamline testing workflows and data validation.
+  
 
 ### 📈 GitHub Goals
 I am currently building my portfolio within the **"Gold Mine"** of Data Science, transforming analytical curiosity into practical, high-value business solutions.
