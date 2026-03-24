@@ -7,7 +7,7 @@ Passionate about solving complex problems through logic and mathematics. My jour
 ---
 
 ### 🚀 About Me
-- 🎓 **Information Systems** student, focusing on **Data Science and AI**.
+- 🎓 **Information Systems** focusing on **Data Science and AI**.
 - 🧠 STEM Enthusiast (**Mathematics, Physics, and Chemistry**), applying analytical reasoning to algorithm construction.
 - 🛠️ Experienced in Backend development with **Python, Django, and REST APIs**.
 - 🐳 Using **Docker** to ensure data models run seamlessly in any environment.
